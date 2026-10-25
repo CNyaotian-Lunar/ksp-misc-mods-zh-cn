@@ -1,0 +1,17 @@
+KSP 杂项模组汉化合集 简体中文补丁 —— 许可
+KSP 杂项模组汉化合集 Simplified Chinese Patch — License
+
+本仓库只包含翻译文本（.cfg / .json），不包含任何原模组的模型、纹理、代码或配置。
+This repository contains translation text only. It contains no assets from the original mod.
+
+本仓库包含多个模组的翻译，各文件分别适用原模组的许可：
+
+  - NavyFish-zh-cn.cfg（Docking Port Alignment Indicator）：MIT
+  - PersistentThrust-zh-cn.cfg（PersistentThrust）：MIT
+  - DatedQuickSaves-zh-cn.cfg（Dated QuickSaves）：GPL-3.0
+  - MoarKerbalsParts-zh-cn.cfg（MoarKerbalsParts）：CC BY-NC-SA 4.0
+  - ImprovedTreeEnginePlacement-zh-cn.cfg（ImprovedTreeEnginePlacement）：CC BY-NC 4.0
+  - BluedogDB-zh-cn.cfg（Bluedog Design Bureau（资源文本部分））：CC BY-NC-SA 4.0
+
+各许可全文见对应上游仓库。
+See upstream repositories for full license texts.
